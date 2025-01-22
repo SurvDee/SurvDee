@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI related projects
 - 📫 How to reach me : udohdavemike@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: do you cockroaches could survive a bomb?
+- ⚡ Fun fact: do you know cockroaches could survive a bomb?
 
 <!---
 SurvDee/SurvDee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
